@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Контроль слива на АЗС</string>
+    <string name="Permition_status">"Слив не разрешен!"</string>
+    <string name="Button_request_permit_text">"Получить  разрешение\nна слив"</string>
+    <string name="button">Button</string>
+    <string name="Settings_button_name_string">Настройки</string>
+</resources>
